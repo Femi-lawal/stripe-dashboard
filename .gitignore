@@ -1,0 +1,9 @@
+node_modules
+application.env
+conf.json
+config.js
+database.js
+sql
+.env
+.vscode
+.src
